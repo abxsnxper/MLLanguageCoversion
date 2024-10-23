@@ -1,6 +1,6 @@
 # MLLanguageCoversion
 
-#syntax for the ML language
+# syntax for the ML language
 
 program:
            ( program-item )*
